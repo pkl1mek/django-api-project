@@ -1,0 +1,19 @@
+# Środowisko wirtualne
+venv/
+env/
+ENV/
+
+.env
+
+# Baza danych (lokalna)
+*.sqlite3
+db.sqlite3
+
+__pycache__/
+*.py[cod]
+*$py.class
+local_settings.py
+
+# Systemowe
+.DS_Store
+Thumbs.db
