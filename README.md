@@ -1,6 +1,6 @@
 # Full-Stack Portfolio CMS (React + Django)
 
-A professional full-stack application designed as a prototype for a client-ready Portfolio Management System. This project allows for dynamic content management, enabling users to showcase realizations through a secure and intuitive interface.
+A full-stack application designed as a prototype for a client-ready Portfolio Management System. This project allows for dynamic content management, enabling users to showcase realizations through a secure and intuitive interface.
 
 ---
 
